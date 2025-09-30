@@ -59,9 +59,9 @@ education:
     date_start: 2023-09-01
     date_end: 2025-08-31
     summary: |
-      • Object-oriented programming (C++, Python), AI and Computer Vision
-      • Hands-on work with ROS1, robotic arm control, and Git version management
-      • Exchange year at Tohoku University (Japan): technical courses and robotics research
+      - Object-oriented programming (C++, Python), AI and Computer Vision
+      - Hands-on work with ROS1, robotic arm control, and Git version management
+      - Exchange year at Tohoku University (Japan): technical courses and robotics research
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
@@ -176,4 +176,5 @@ work:
 ---
 
 I'm a robotics / embedded software engineer and hobbyist game developer. I graduated from Sorbonne University with a degree in Automation and Robotics.
+
 Check out some of the projects I've been working on below. If you have any questions or are interested in working with me feel free to contact me.
