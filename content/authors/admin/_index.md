@@ -106,7 +106,7 @@ work:
       • Built an HD-projector demo: video-game in Python, image/video projection in C++ and mobile app in Flutter\n
       • Designed and assembled the complete hardware setup, including power, PCB connections and inter-module wiring\n
       • Used a logic analyzer and oscilloscope to debug and verify low-level signals and timing on hardware interfaces\n
-
+#
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 #skills:
