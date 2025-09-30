@@ -56,8 +56,8 @@ profiles:
 education:
   - area: MS Automation & Robotics
     institution: Sorbonne University
-    date_start: 2023-09
-    date_end: 2025-08
+    date_start: 2023-09-01
+    date_end: 2025-08-31
     summary: |
       • Object-oriented programming (C++, Python), AI and Computer Vision
       • Hands-on work with ROS1, robotic arm control, and Git version management
@@ -67,8 +67,8 @@ education:
     #  url: 'https://example.com/thesis.pdf'
   - area: BS Electronics, Electrical ENergy and Automation Science
     institution: University of Lille 1
-    date_start: 2019-09
-    date_end: 2022-05
+    date_start: 2019-09-01
+    date_end: 2022-05-31
     summary: |
       Rank: 1st
 
@@ -76,8 +76,8 @@ education:
       • Microcontrollers, C, VHDL/FPGA; proficient with UNIX/Linux
   - area: BS Japanese and French Philology
     institution: University of Bucharest
-    date_start: 2018-09
-    date_end: 2021-08
+    date_start: 2018-09-01
+    date_end: 2021-08-31
     summary: |
 
 work:
@@ -85,8 +85,8 @@ work:
     company_name: Tohoku University – Tough Robotics Laboratory
     company_url: 'https://tr.is.tohoku.ac.jp/'
     company_logo: 'lab_logo.png'
-    date_start: 2024-09
-    date_end: '2025-08'
+    date_start: 2024-09-26
+    date_end: 2025-08-31
     summary: |2-
       • Developed real-time path planning algorithm in ROS2 (C++/Python) for environments with movable obstacles
       • Integrated LiDAR, IMU and camera data; built sensor models and tested on both hardware and in simulation
@@ -99,8 +99,8 @@ work:
     company_name: Valeo Lighting Systems
     company_url: 'https://www.valeo.com/en/light-division/'
     company_logo: 'valeo-logo.png'
-    date_start: 2024-05
-    date_end: 2024-08
+    date_start: 2024-05-21
+    date_end: 2024-08-30
     summary: |
       • Supported development and testing of firmware on nRF5340 using Zephyr RTOS with SPI/UART/CAN interfaces
       • Built an HD-projector demo: video-game in Python, image/video projection in C++ and mobile app in Flutter
