@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Embedded Software Dev / Robotics Engineer
+role: Robotics Engineer / Embedded Software Dev
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -175,6 +175,6 @@ work:
 #      Recognized for contributions to scaling #laws in deep learning.
 ---
 
-I'm a robotics / embedded software engineer and hobbyist game developer. I graduated from Sorbonne University with a degree in Automation and Robotics.
+Hi, I'm Liviu! I'm a robotics / embedded software engineer and I like building cool stuff in my free time. I graduated from Sorbonne University with a degree in Automation and Robotics.
 
 Check out some of the projects I've been working on below. If you have any questions or are interested in working with me feel free to contact me.
