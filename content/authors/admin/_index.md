@@ -88,10 +88,10 @@ work:
     date_start: 2024-09-26
     date_end: 2025-08-31
     summary: |2-
-      • Developed real-time path planning algorithm in ROS2 (C++/Python) for environments with movable obstacles
-      • Integrated LiDAR, IMU and camera data; built sensor models and tested on both hardware and in simulation
-      • Extended open-source stack for navigation, mapping and real-time detection, using Git and Docker
-      • Work accepted for presentation at the international ICAR 2025 conference; implementation to be released open-source
+      • Developed real-time path planning algorithm in ROS2 (C++/Python) for environments with movable obstacles\n \\
+      • Integrated LiDAR, IMU and camera data; built sensor models and tested on both hardware and in simulation\n
+      • Extended open-source stack for navigation, mapping and real-time detection, using Git and Docker\n
+      • Work accepted for presentation at the international ICAR 2025 conference; implementation to be released open-source\n
     button:
       text: 'Read published paper (SOON)'
       #url: 'https://example.com/thesis.pdf' TODO
@@ -102,14 +102,14 @@ work:
     date_start: 2024-05-21
     date_end: 2024-08-30
     summary: |
-      • Supported development and testing of firmware on nRF5340 using Zephyr RTOS with SPI/UART/CAN interfaces
-      • Built an HD-projector demo: video-game in Python, image/video projection in C++ and mobile app in Flutter
-      • Designed and assembled the complete hardware setup, including power, PCB connections and inter-module wiring
-      • Used a logic analyzer and oscilloscope to debug and verify low-level signals and timing on hardware interfaces
+      • Supported development and testing of firmware on nRF5340 using Zephyr RTOS with SPI/UART/CAN interfaces\n
+      • Built an HD-projector demo: video-game in Python, image/video projection in C++ and mobile app in Flutter\n
+      • Designed and assembled the complete hardware setup, including power, PCB connections and inter-module wiring\n
+      • Used a logic analyzer and oscilloscope to debug and verify low-level signals and timing on hardware interfaces\n
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+#skills:
 #  - name: Technical Skills
 #    items:
 #      - name: Python & PyTorch
