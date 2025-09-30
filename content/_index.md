@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -28,7 +28,7 @@ sections:
       #css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: collection
     content:
