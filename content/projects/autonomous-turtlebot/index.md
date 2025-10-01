@@ -11,8 +11,6 @@ links:
     icon: brands/github
     name: View on GitHub
     url: https://github.com/leaveyoustun/autonomous-turtlebot
-icon: brands/github
-url: https://github.com/leaveyoustun
 button:
   text: 'Read published paper (SOON)'
   icon: brands/github
