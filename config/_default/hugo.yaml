@@ -53,3 +53,14 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade:
+  # Configure projects
+  - _target:
+      path: /projects/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
