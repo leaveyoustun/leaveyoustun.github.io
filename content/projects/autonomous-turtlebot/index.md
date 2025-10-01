@@ -1,15 +1,12 @@
 ---
 title: Autonomous Turtlebot
 external_link: "https://github.com/leaveyoustun/autonomous-turtlebot"
-image:
-  preview: thumb.png
-  hover: hover.gif
 show_date: false
 tags:
   - ROS1
   - Python
 design:
-  fill_image: true
+  fill_image: false
 links:
   - type: brands/github
     name: View on GitHub
