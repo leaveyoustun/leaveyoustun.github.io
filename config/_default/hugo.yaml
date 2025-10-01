@@ -58,6 +58,8 @@ cascade:
   - _target:
       path: /projects/**
     pager: false
+    show_date: false
+    profile: true
     editable: false
     reading_time: false
     commentable: false

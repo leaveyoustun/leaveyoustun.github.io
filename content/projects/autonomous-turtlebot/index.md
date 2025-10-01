@@ -10,7 +10,15 @@ design:
   show_read_time: false
   show_read_more: false
 links:
-  - icon_pack: fab
+  - icon_pack: brands
+    icon: github
+    name: View on Github
+    url: 'https://github.com/leaveyoustun/autonomous-turtlebot.git'
+---
+
+---
+links:
+  - icon_pack: brands
     icon: github
     name: View on Github
     url: 'https://github.com/leaveyoustun/autonomous-turtlebot.git'
