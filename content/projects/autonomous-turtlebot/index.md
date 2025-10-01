@@ -7,13 +7,18 @@ tags:
 design:
   fill_image: true
 links:
-  - type: github
+  - type: brands/github
+    icon: brands/github
     name: View on GitHub
     url: https://github.com/leaveyoustun/autonomous-turtlebot
+icon: brands/github
+url: https://github.com/leaveyoustun
+button:
+  text: 'Read published paper (SOON)'
+  icon: brands/github
+  url: 'https://github.com/leaveyoustun/autonomous-turtlebot'
+
 ---
-{{< btn href="https://github.com/leaveyoustun/autonomous-turtlebot" text="View on GitHub" icon="github" >}}
-
-
 
 TurtleBot3 Burger used for solving autonomous navigation micro‑challenges inside a Gazebo world.
 
