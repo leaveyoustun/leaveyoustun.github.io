@@ -11,6 +11,9 @@ links:
     name: View on GitHub
     url: https://github.com/leaveyoustun/autonomous-turtlebot
 ---
+{{< btn href="https://github.com/leaveyoustun/autonomous-turtlebot" text="View on GitHub" icon="github" >}}
+
+
 
 TurtleBot3 Burger used for solving autonomous navigation micro‑challenges inside a Gazebo world.
 
