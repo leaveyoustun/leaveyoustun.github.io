@@ -1,5 +1,6 @@
 ---
 title: Autonomous Turtlebot
+external_link: "https://github.com/leaveyoustun/autonomous-turtlebot"
 show_date: false
 tags:
   - ROS1
@@ -8,14 +9,8 @@ design:
   fill_image: true
 links:
   - type: brands/github
-    icon: brands/github
     name: View on GitHub
     url: https://github.com/leaveyoustun/autonomous-turtlebot
-button:
-  text: 'Read published paper (SOON)'
-  icon: brands/github
-  url: 'https://github.com/leaveyoustun/autonomous-turtlebot'
-
 ---
 
 TurtleBot3 Burger used for solving autonomous navigation micro‑challenges inside a Gazebo world.
