@@ -59,7 +59,7 @@ cascade:
       path: /projects/**
     pager: false
     show_date: false
-    profile: true
+    profile: false
     editable: false
     reading_time: false
     commentable: false

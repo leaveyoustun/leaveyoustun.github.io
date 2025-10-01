@@ -1,6 +1,7 @@
 ---
 title: Autonomous Turtlebot
 date: 2023-10-01
+show_date: false
 tags:
   - ROS1
   - Python
