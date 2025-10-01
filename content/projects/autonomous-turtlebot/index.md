@@ -1,7 +1,7 @@
 ---
 title: Autonomous Turtlebot
 show_date: false
-date: 2023-10-01
+#date: 2023-10-01
 tags:
   - ROS1
   - Python
@@ -11,14 +11,11 @@ design:
   show_read_time: false
   show_read_more: false
 links:
-  - icon_pack: brands
+  - icon_pack: fab
     icon: github
     name: View on Github
     url: 'https://github.com/leaveyoustun/autonomous-turtlebot.git'
 ---
-
-{{< icon name="github" pack="brands" >}} [View on GitHub](https://github.com/leaveyoustun/autonomous-turtlebot.git)
-
 
 TurtleBot3 Burger used for solving three autonomous-navigation micro‑challenges inside the Gazebo world below.
 
