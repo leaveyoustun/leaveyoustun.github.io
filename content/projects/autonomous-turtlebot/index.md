@@ -1,5 +1,6 @@
 ---
 title: Autonomous Turtlebot
+hover_image: "hover.gif"
 external_link: "https://github.com/leaveyoustun/autonomous-turtlebot"
 show_date: false
 tags:
