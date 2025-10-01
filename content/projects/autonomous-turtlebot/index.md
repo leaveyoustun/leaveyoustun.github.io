@@ -17,13 +17,8 @@ links:
     url: 'https://github.com/leaveyoustun/autonomous-turtlebot.git'
 ---
 
----
-links:
-  - icon_pack: brands
-    icon: github
-    name: View on Github
-    url: 'https://github.com/leaveyoustun/autonomous-turtlebot.git'
----
+{{< icon name="github" pack="fab" >}} [View on GitHub](https://github.com/your/repo)
+
 
 TurtleBot3 Burger used for solving three autonomous-navigation micro‑challenges inside the Gazebo world below.
 
