@@ -86,7 +86,7 @@ work:
   - position: Robotics Engineering Research Intern
     company_name: Tohoku University – Tough Robotics Laboratory
     company_url: 'https://tr.is.tohoku.ac.jp/'
-    company_logo: 'lab_logo.png'
+    company_logo: 'valeo-logo'
     date_start: 2024-09-26
     date_end: 2025-08-31
     summary: |2-
