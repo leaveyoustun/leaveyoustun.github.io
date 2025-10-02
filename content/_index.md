@@ -16,15 +16,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      buttons:
-        - text: Resume
-          url: uploads/resume.pdf
-          icon: file-text
-          color: primary
-        - text: E-mail Me
-          url: 'mailto:liviu.stan99@gmail.com'
-          icon: mail
-          color: primary
+      button:
+        text: Resume
+        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -36,6 +30,17 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: buttons
+    content:
+      buttons:
+        - title: "E-mail Me"
+          icon: mail
+          url: "mailto:liviu.stan99@gmail.com"
+          color: primary
+        - title: "Download Résumé"
+          icon: file-text
+          url: "uploads/resume.pdf"
+          color: primary
   - block: collection
     content:
       title: Projects
