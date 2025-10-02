@@ -16,12 +16,15 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Resume
-        url: uploads/resume.pdf
-      button:
-        text: E-mail Me
-        url: 'mailto:liviu.stan99@gmail.com'
+      buttons:
+        - text: Resume
+          url: uploads/resume.pdf
+          icon: file-text
+          color: primary
+        - text: E-mail Me
+          url: 'mailto:liviu.stan99@gmail.com'
+          icon: mail
+          color: primary
       headings:
         about: ''
         education: ''
