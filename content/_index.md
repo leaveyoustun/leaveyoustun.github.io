@@ -19,6 +19,9 @@ sections:
       button:
         text: Resume
         url: uploads/resume.pdf
+      button:
+        text: E-mail Me
+        url: 'mailto:liviu.stan99@gmail.com'
       headings:
         about: ''
         education: ''
