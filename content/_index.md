@@ -40,7 +40,7 @@ sections:
           url: "mailto:liviu.stan99@gmail.com"
           icon: "mail"
     design:
-      columns: "3"
+      columns: "1"
       background:
         color: "blue-50"
   - block: collection
