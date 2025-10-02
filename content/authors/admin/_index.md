@@ -100,7 +100,7 @@ work:
   - position: Embedded Prototype Engineering Intern
     company_name: Valeo Lighting Systems
     company_url: 'https://www.valeo.com/en/light-division/'
-    company_logo: 'custom/valeo-logo.svg'
+    company_logo: valeo-logo
     date_start: 2024-05-21
     date_end: 2024-08-30
     summary: |
