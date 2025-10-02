@@ -30,17 +30,19 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: buttons
+  - block: cta-button-list
     content:
       buttons:
-        - title: "E-mail Me"
-          icon: mail
+        - text: "Resume"
+          url: uploads/resume.pdf
+          icon: "mail"
+        - text: "E-mail Me"
           url: "mailto:liviu.stan99@gmail.com"
-          color: primary
-        - title: "Download Résumé"
-          icon: file-text
-          url: "uploads/resume.pdf"
-          color: primary
+          icon: "mail"
+    design:
+      columns: "3"
+      background:
+        color: "blue-50"
   - block: collection
     content:
       title: Projects
