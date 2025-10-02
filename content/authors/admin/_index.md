@@ -35,13 +35,15 @@ role: Robotics Engineer / Embedded Software Dev
 profiles:
   - icon: at-symbol
     url: 'mailto:liviu.stan99@gmail.com'
-    label: E-mail Me
+    label: E-mail me at liviu.stan99@gmail.com
 #  - icon: brands/x
 #    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/leaveyoustun
+    label: My Github account
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/liviu-stan/
+    label: My LinkedIn account
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/citations?user=alexjohnson
 #  - icon: academicons/orcid
