@@ -15,7 +15,7 @@ links:
     url: https://github.com/leaveyoustun/imu-pwm
 ---
 
-STM32 accelerometer project meant for training in serial communication, PWM and RTOS
+STM32 IMU project meant for training in serial communication, PWM and RTOS.
 
 <!--more-->
 

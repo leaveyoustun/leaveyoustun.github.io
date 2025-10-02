@@ -14,7 +14,7 @@ links:
     url: https://github.com/leaveyoustun/mario-kart-mini
 ---
 
-A top‑down Mario Kart‑style game built with Pygame.
+A top‑down Mario Kart‑style game built with Pygame that includes an A* path-finding AI.
 
 <!--more-->
 
