@@ -15,7 +15,7 @@ links:
     url: https://costmap-namo.github.io/
 ---
 
-ROS 2 navigation system for robots to push or avoid obstacles via adaptive cost-maps.
+ROS 2 system that lets robots push or avoid obstacles via adaptive cost-maps.
 
 <!--more-->
 
