@@ -95,8 +95,8 @@ work:
       - Extended open-source stack for navigation, mapping and real-time detection, using Git and Docker
       - Work accepted for presentation at the international ICAR 2025 conference; implementation to be released open-source
     button:
-      text: 'Read published paper (SOON)'
-      #url: 'https://example.com/thesis.pdf' TODO
+      text: 'Read published paper'
+      url: 'https://costmap-namo.github.io/'
   - position: Embedded Prototype Engineering Intern
     company_name: Valeo Lighting Systems
     company_url: ''
