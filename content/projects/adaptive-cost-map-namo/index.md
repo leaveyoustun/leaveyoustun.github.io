@@ -15,7 +15,7 @@ links:
     url: https://costmap-namo.github.io/
 ---
 
-A LiDAR and odometry-based navigation framework for ROS 2 that lets robots detect, push, or avoid obstacles dynamically through real-time cost-map adaptation.
+ROS 2 navigation framework that lets robots push or avoid obstacles via real-time cost-map adaptation.
 
 <!--more-->
 The ROS 1 package lets a TurtleBot3 Burger navigate a miniature “driving-school” world in Gazebo (and on the real robot). The map combines coloured lane markings, tunnels and obstacles. The goal was to write a perception and control node for the robot to pass through them.
